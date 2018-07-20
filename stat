@@ -1,7 +1,7 @@
 {
   "day":[
-    {"s" : [{"day":"temp"},{"day":"temp"},{"day":"temp"},
-    {"day":"temp"},{"day":"temp"},{"day":"temp"},{"day":"temp"}]},
+    {"s" : [{"day":"t"},{"day":"tp"},{"day":"tep"},
+    {"day":"tem"},{"day":"emp"},{"day":"mp"},{"day":"temp"}]},
     
      {"s" : [{"day":"temp"},{"day":"temp"},{"day":"temp"},
      {"day":"temp"},{"day":"temp"},{"day":"temp"},{"day":"temp"}]}, 

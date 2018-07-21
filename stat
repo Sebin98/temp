@@ -1,6 +1,6 @@
 {
   "day":[
-    {"s" : [{"day":"hello"},{"day":"devi"},{"day":"smitha"},
+    {"s" : [{"day":"temp"},{"day":"temp"},{"day":"temp"},
     {"day":"tem"},{"day":"emp"},{"day":"mp"},{"day":"temp"}]},
     
      {"s" : [{"day":"N/A"},{"day":"N/A"},{"day":"N/A"},
@@ -13,7 +13,7 @@
      {"day":"temp"},{"day":"temp"},{"day":"temp"},{"day":"temp"}]}, 
      
      {"s" : [{"day":"temp"},{"day":"temp"},{"day":"temp"},
-     {"day":"temp"},{"day":"temp"},{"day":"temp"},{"day":"N/A"}]
+     {"day":"temp"},{"day":"temp"},{"day":"temp"},{"day":"temp"}]
        
      }
 ]

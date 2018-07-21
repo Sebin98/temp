@@ -1,10 +1,10 @@
 {
   "day":[
-    {"s" : [{"day":"N/A"},{"day":"N/A"},{"day":"N/A"},
+    {"s" : [{"day":"hello"},{"day":"devi"},{"day":"smitha"},
     {"day":"tem"},{"day":"emp"},{"day":"mp"},{"day":"temp"}]},
     
-     {"s" : [{"day":"temp"},{"day":"temp"},{"day":"temp"},
-     {"day":"temp"},{"day":"temp"},{"day":"temp"},{"day":"temp"}]}, 
+     {"s" : [{"day":"N/A"},{"day":"N/A"},{"day":"N/A"},
+     {"day":"N/A"},{"day":"N/A"},{"day":"N/A"},{"day":"N/A"}]}, 
      
      {"s" : [{"day":"temp"},{"day":"temp"},{"day":"temp"},
      {"day":"temp"},{"day":"temp"},{"day":"temp"},{"day":"temp"}]}, 

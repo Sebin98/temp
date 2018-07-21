@@ -1,6 +1,6 @@
 {
   "day":[
-    {"s" : [{"day":"t"},{"day":"tp"},{"day":"tep"},
+    {"s" : [{"day":"N/A"},{"day":"N/A"},{"day":"N/A"},
     {"day":"tem"},{"day":"emp"},{"day":"mp"},{"day":"temp"}]},
     
      {"s" : [{"day":"temp"},{"day":"temp"},{"day":"temp"},
@@ -13,7 +13,7 @@
      {"day":"temp"},{"day":"temp"},{"day":"temp"},{"day":"temp"}]}, 
      
      {"s" : [{"day":"temp"},{"day":"temp"},{"day":"temp"},
-     {"day":"temp"},{"day":"temp"},{"day":"temp"},{"day":"temp"}]
+     {"day":"temp"},{"day":"temp"},{"day":"temp"},{"day":"N/A"}]
        
      }
 ]

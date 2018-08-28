@@ -7,13 +7,13 @@
      {"day":"..."},{"day":"GT"},{"day":"DC"},{"day":"REM"}]}, 
      
      {"s" : [{"day":"ELEC"},{"day":"TOC"},{"day":"SS"},
-     {"day":"TOC\n(T)"},{"day":"ASD\nLAB"},{"day":"..."},{"day":"..."}]}, 
+     {"day":"TOC\n(T)"},{"day":"ASD\nLAB"},{"day":"ASD\nLAB"},{"day":"ASD\nLAB"}]}, 
      
      {"s" : [{"day":"DC"},{"day":"LIB"},{"day":"TOC"},
      {"day":"SS"},{"day":"GT"},{"day":"MP"},{"day":"REM"}]}, 
      
-     {"s" : [{"day":"GT"},{"day":"SS\nLAB"},{"day":"..."},
-     {"day":"..."},{"day":"ELEC"},{"day":"TOC"},{"day":"AH"}]
+     {"s" : [{"day":"GT"},{"day":"SS\nLAB"},{"day":"SS\nLAB"},
+     {"day":"SS\nLAB"},{"day":"ELEC"},{"day":"TOC"},{"day":"AH"}]
        
      }
 ]

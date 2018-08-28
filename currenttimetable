@@ -1,19 +1,19 @@
 {
   "day":[
-    {"s" : [{"day":"temp"},{"day":"temp"},{"day":"temp"},
-    {"day":"tem"},{"day":"emp"},{"day":"mp"},{"day":"temp"}]},
+    {"s" : [{"day":"ELEC I"},{"day":"MP"},{"day":"GT"},
+    {"day":"TOC"},{"day":"DC"},{"day":"SS(T)"},{"day":"SEP"}]},
     
-     {"s" : [{"day":"N/A"},{"day":"N/A"},{"day":"N/A"},
-     {"day":"N/A"},{"day":"N/A"},{"day":"N/A"},{"day":"N/A"}]}, 
+     {"s" : [{"day":"MP(T)"},{"day":"DESIGN\nPROJECT"},{"day":"..."},
+     {"day":"..."},{"day":"GT"},{"day":"DC"},{"day":"REM"}]}, 
      
-     {"s" : [{"day":"temp"},{"day":"temp"},{"day":"temp"},
-     {"day":"temp"},{"day":"temp"},{"day":"temp"},{"day":"temp"}]}, 
+     {"s" : [{"day":"ELEC I"},{"day":"TOC"},{"day":"SS"},
+     {"day":"TOC(T)"},{"day":"ASD\nLAB"},{"day":"..."},{"day":"..."}]}, 
      
-     {"s" : [{"day":"temp"},{"day":"temp"},{"day":"temp"},
-     {"day":"temp"},{"day":"temp"},{"day":"temp"},{"day":"temp"}]}, 
+     {"s" : [{"day":"DC"},{"day":"LIB"},{"day":"TOC"},
+     {"day":"SS"},{"day":"GT"},{"day":"MP"},{"day":"REM"}]}, 
      
-     {"s" : [{"day":"temp"},{"day":"temp"},{"day":"temp"},
-     {"day":"temp"},{"day":"temp"},{"day":"temp"},{"day":"temp"}]
+     {"s" : [{"day":"GT"},{"day":"SS\nLAB"},{"day":"..."},
+     {"day":"..."},{"day":"ELEC I"},{"day":"TOC"},{"day":"AH"}]
        
      }
 ]

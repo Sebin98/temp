@@ -1,19 +1,19 @@
 {
   "day":[
-    {"s" : [{"day":"ELEC I"},{"day":"MP"},{"day":"GT"},
-    {"day":"TOC"},{"day":"DC"},{"day":"SS(T)"},{"day":"SEP"}]},
+    {"s" : [{"day":"ELEC"},{"day":"MP"},{"day":"GT"},
+    {"day":"TOC"},{"day":"DC"},{"day":"SS\n(T)"},{"day":"SEP"}]},
     
-     {"s" : [{"day":"MP(T)"},{"day":"DESIGN\nPROJECT"},{"day":"..."},
+     {"s" : [{"day":"MP\n(T)"},{"day":"DSN\nPROJECT"},{"day":"..."},
      {"day":"..."},{"day":"GT"},{"day":"DC"},{"day":"REM"}]}, 
      
-     {"s" : [{"day":"ELEC I"},{"day":"TOC"},{"day":"SS"},
-     {"day":"TOC(T)"},{"day":"ASD\nLAB"},{"day":"..."},{"day":"..."}]}, 
+     {"s" : [{"day":"ELEC"},{"day":"TOC"},{"day":"SS"},
+     {"day":"TOC\n(T)"},{"day":"ASD\nLAB"},{"day":"..."},{"day":"..."}]}, 
      
      {"s" : [{"day":"DC"},{"day":"LIB"},{"day":"TOC"},
      {"day":"SS"},{"day":"GT"},{"day":"MP"},{"day":"REM"}]}, 
      
      {"s" : [{"day":"GT"},{"day":"SS\nLAB"},{"day":"..."},
-     {"day":"..."},{"day":"ELEC I"},{"day":"TOC"},{"day":"AH"}]
+     {"day":"..."},{"day":"ELEC"},{"day":"TOC"},{"day":"AH"}]
        
      }
 ]

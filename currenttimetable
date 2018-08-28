@@ -3,11 +3,11 @@
     {"s" : [{"day":"ELEC"},{"day":"MP"},{"day":"GT"},
     {"day":"TOC"},{"day":"DC"},{"day":"SS\n(T)"},{"day":"SEP"}]},
     
-     {"s" : [{"day":"MP\n(T)"},{"day":"DSN\nPROJECT"},{"day":"..."},
-     {"day":"..."},{"day":"GT"},{"day":"DC"},{"day":"REM"}]}, 
+     {"s" : [{"day":"MP\n(T)"},{"day":"DSN\nPJT"},{"day":"DSN\nPJT"},
+     {"day":"DSN\nPJT"},{"day":"GT"},{"day":"DC"},{"day":"REM"}]}, 
      
      {"s" : [{"day":"ELEC"},{"day":"TOC"},{"day":"SS"},
-     {"day":"TOC\n(T)"},{"day":"ASD\nLAB"},{"day":"CONT"},{"day":"ASD\nLAB"}]}, 
+     {"day":"TOC\n(T)"},{"day":"ASD\nLAB"},{"day":"ASD\nLAB"},{"day":"ASD\nLAB"}]}, 
      
      {"s" : [{"day":"DC"},{"day":"LIB"},{"day":"TOC"},
      {"day":"SS"},{"day":"GT"},{"day":"MP"},{"day":"REM"}]}, 

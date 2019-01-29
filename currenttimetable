@@ -1,19 +1,19 @@
 {
   "day":[
-    {"s" : [{"day":"ELEC"},{"day":"MP"},{"day":"GT"},
-    {"day":"TOC"},{"day":"DC"},{"day":"SS\n(T)"},{"day":"SEP"}]},
+    {"s" : [{"day":"CN"},{"day":"SEPM"},{"day":"DAA"},
+    {"day":"CD"},{"day":"ELEC"},{"day":"CN"},{"day":"SEP"}]},
     
-     {"s" : [{"day":"MP\n(T)"},{"day":"DSN\nPJT"},{"day":"DSN\nPJT"},
-     {"day":"DSN\nPJT"},{"day":"GT"},{"day":"DC"},{"day":"REM"}]}, 
+     {"s" : [{"day":"ELEC"},{"day":"DAA"},{"day":"CN"},
+     {"day":"LIB"},{"day":"MP\NLAB"},{"day":"MP\NLAB"},{"day":"MP\NLAB"}]}, 
      
-     {"s" : [{"day":"ELEC"},{"day":"TOC"},{"day":"SS"},
-     {"day":"TOC\n(T)"},{"day":"ASD\nLAB"},{"day":"ASD\nLAB"},{"day":"ASD\nLAB"}]}, 
+     {"s" : [{"day":"CD"},{"day":"POM"},{"day":"SEPM"},
+     {"day":"PT"},{"day":"DAA"},{"day":"CD"},{"day":"SEPM"}]}, 
      
-     {"s" : [{"day":"DC"},{"day":"LIB"},{"day":"TOC"},
-     {"day":"SS"},{"day":"GT"},{"day":"MP"},{"day":"REM"}]}, 
+     {"s" : [{"day":"ELEC"},{"day":"DAA"},{"day":"SEPM"},
+     {"day":"CN"},{"day":"POM"},{"day":"CD"},{"day":"DAA\n(T)"}]}, 
      
-     {"s" : [{"day":"GT"},{"day":"SS\nLAB"},{"day":"SS\nLAB"},
-     {"day":"SS\nLAB"},{"day":"ELEC"},{"day":"TOC"},{"day":"AH"}]
+     {"s" : [{"day":"POM"},{"day":"NET\nLAB"},{"day":"NET\nLAB"},
+     {"day":"NET\nLAB"},{"day":"ELEC"},{"day":"COM"},{"day":"AH"}]
        
      }
 ]

@@ -1,19 +1,19 @@
 {
   "day":[
-    {"s" : [{"day":"CN"},{"day":"SEPM"},{"day":"DAA"},
-    {"day":"CD"},{"day":"ELEC"},{"day":"CN"},{"day":"SEP"}]},
+    {"s" : [{"day":"DC"},{"day":"CSA"},{"day":"ELEC"},
+    {"day":"LIB"},{"day":"PRO"},{"day":"SEM"},{"day":"CG"}]},
     
-     {"s" : [{"day":"ELEC"},{"day":"DAA"},{"day":"CN"},
-     {"day":"LIB"},{"day":"MP\nLAB"},{"day":"MP\nLAB"},{"day":"MP\nLAB"}]}, 
+     {"s" : [{"day":"CNS"},{"day":"CG"},{"day":"ELEC"},
+     {"day":"CSA"},{"day":"PPA"},{"day":"CNS"},{"day":"DC"}]}, 
      
-     {"s" : [{"day":"CD"},{"day":"POM"},{"day":"SEPM"},
-     {"day":"PT"},{"day":"DAA"},{"day":"CD"},{"day":"SEPM"}]}, 
+     {"s" : [{"day":"PPA"},{"day":"MENT"},{"day":"CG"},
+     {"day":"DC"},{"day":"CD\nLAB"},{"day":"CD\nLAB"},{"day":"CD\nLAB"}]}, 
      
-     {"s" : [{"day":"ELEC"},{"day":"DAA"},{"day":"SEPM"},
-     {"day":"CN"},{"day":"POM"},{"day":"CD"},{"day":"DAA\n(T)"}]}, 
+     {"s" : [{"day":"CNS"},{"day":"PRO"},{"day":"SEM"},
+     {"day":"INAR"},{"day":"CSA"},{"day":"ELEC"},{"day":"SEP"}]}, 
      
-     {"s" : [{"day":"POM"},{"day":"NET\nLAB"},{"day":"NET\nLAB"},
-     {"day":"NET\nLAB"},{"day":"COM"},{"day":"COM"},{"day":"AH"}]
+     {"s" : [{"day":"CSA"},{"day":"PPA"},{"day":"CNS"},
+     {"day":"PPA"},{"day":"ELEC"},{"day":"CG"},{"day":"AH"}]
        
      }
 ]

@@ -1,7 +1,7 @@
 {
   "day":[
     {"s" : [{"day":"DC"},{"day":"CSA"},{"day":"ELEC"},
-    {"day":"LIB"},{"day":"PRO"},{"day":"SEM"},{"day":"CG"}]},
+    {"day":"CG"},{"day":"PRO"},{"day":"SEM"},{"day":"SEM"}]},
     
      {"s" : [{"day":"CNS"},{"day":"CG"},{"day":"ELEC"},
      {"day":"CSA"},{"day":"PPA"},{"day":"CNS"},{"day":"DC"}]}, 

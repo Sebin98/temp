@@ -1,14 +1,14 @@
 [
 ["https://www.rajagiritech.ac.in/stud/KTU/Parent/Leave.asp?code=2019S7CS-C"],
-["CS401","CG ",1],
-["CS403","PP ",2],
-["CS405","CSA",2],
-["CS407","DC ",2],
-["CS409","CNS",2],
+["CS401","CG ",3],
+["CS403","PP ",3],
+["CS405","CSA",4],
+["CS407","DC ",4],
+["CS409","CNS",5],
 ["CS431","CD LAB ",0],
-["2019S7CS-A-CS463","DIP",2],
-["2019S7CS-A-CS465","BIO",2],
-["2019S7CS-A-CS467","ML ",2],
-["2019S7CS-A-CS469","CC ",2],
-["CS451","SEM",13]
+["2019S7CS-A-CS463","DIP",4],
+["2019S7CS-A-CS465","BIO",4],
+["2019S7CS-A-CS467","ML ",4],
+["2019S7CS-A-CS469","CC ",4],
+["CS451","SEM",16]
 ]
